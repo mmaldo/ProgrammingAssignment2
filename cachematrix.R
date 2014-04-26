@@ -1,6 +1,6 @@
 ## Rfunction that is able to cache potentially time-consuming matrix computations.
 ## This set functions is for creating a special "matrix" that can than be used to
-## compute the inverse and cache the answer. This amkes retreving the answer less 
+## compute the inverse and cache the answer. This makes retreving the answer less 
 ## time consuming.
 
 ## The first function, `makeCacheMatrix` creates a special "matrix", which can
